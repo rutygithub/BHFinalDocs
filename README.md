@@ -1,6 +1,7 @@
 傻瓜下载github 上面有关BH哥的评注的文件
 
 MacOS
+
 1.打开终端（terminal)
 
 2. 终端（terminal) 打命令输入：     cd Desktop
